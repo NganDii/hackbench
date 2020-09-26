@@ -1,4 +1,5 @@
 cd ~/
+rm -rf ~/hackbench
 pkg install -y git clang libllvm
 git clone https://github.com/geekydoc/hackbench
 cd hackbench
